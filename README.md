@@ -41,3 +41,4 @@ After every addition to dataset, train the images.
 
 For detection start the webcam.
 
+![](Home.png)
