@@ -40,5 +40,4 @@ Enter details (If a new employee) and capture images.
 After every addition to dataset, train the images.
 
 For detection start the webcam.
-
 ![](Start.png)
