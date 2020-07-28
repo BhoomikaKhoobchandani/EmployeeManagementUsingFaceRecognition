@@ -7,3 +7,4 @@ Captures faces from frames and stores them in the dataset with unique id number.
 
 Stores all the employee details in a database also, provides various other functionalities.
 
+![](UI.png)
